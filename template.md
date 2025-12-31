@@ -1,4 +1,4 @@
-# III. Reusable Markdown Template (for future lessons)
+# Reusable Markdown Template (for future lessons)
 
 ``` md
 # Lesson Title
@@ -60,3 +60,13 @@ Description
 End of template.
 
 ## Icons
+1️⃣
+2️⃣
+3️⃣
+4️⃣
+5️⃣
+6️⃣
+7️⃣
+8️⃣
+9️⃣
+🔟
